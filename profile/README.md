@@ -14,13 +14,17 @@ The focus is on a vanilla LineageOS experience with enhanced privacy without los
  - [ ] Get hardware for building
  - [ ] Setup and make the first build
  - [ ] Include microG my default
- - [ ] Include Bromite by default
+ - [ ] Include Bromite Webview by default
  - [ ] Upstream kernel
 
 ### 2. Port to more devices
 
- - [ ] (probably) Samsung Galaxy A12
+ - [ ] (under consideration) Samsung Galaxy A12
+ - [ ] (under consideration) Google Pixel
 
 ### 3. More nice features
 
  - [ ] Custom logo
+ - [ ] F-Droid privileged pre-installed
+ - [ ] (under consideration) use fork of /e/ launcher
+ - [ ] GrapheneOS camera app
