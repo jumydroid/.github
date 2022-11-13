@@ -28,3 +28,4 @@ The focus is on a vanilla LineageOS experience with enhanced privacy without los
  - [ ] (under consideration) use fork of /e/ launcher
  - [ ] GrapheneOS camera app
  - [ ] Use custom DNS, CaptivePortal etc server by default instead of Google's
+ - [ ] pre-install Aurora Store
