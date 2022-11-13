@@ -27,3 +27,4 @@ The focus is on a vanilla LineageOS experience with enhanced privacy without los
  - [ ] Custom logo
  - [ ] (under consideration) use fork of /e/ launcher
  - [ ] GrapheneOS camera app
+ - [ ] Use custom DNS, CaptivePortal etc server by default instead of Google's
