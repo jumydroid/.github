@@ -13,16 +13,15 @@ The focus is on a vanilla LineageOS experience with enhanced privacy without los
  - [ ] Repositories and build scripts for base, device, kernel, ...
  - [ ] Get hardware for building
  - [ ] Setup and make the first build
- - [ ] Include microG my default
  - [ ] OTA updates
  - [ ] signed builds
+
+### 2. Basic features
+
+ - [ ] Include microG my default
  - [ ] Include Bromite Webview by default
  - [ ] F-Droid privileged pre-installed
  - [ ] Upstream kernel
-
-### 2. Port to more devices
-
- - [ ] (under consideration) Google Pixel
 
 ### 3. More nice features
 
@@ -31,3 +30,7 @@ The focus is on a vanilla LineageOS experience with enhanced privacy without los
  - [ ] GrapheneOS camera app
  - [ ] Use custom DNS, CaptivePortal etc server by default instead of Google's
  - [ ] pre-install Aurora Store
+
+### 4. Port to more devices
+
+ - [ ] (under consideration) Google Pixel
