@@ -14,6 +14,8 @@ The focus is on a vanilla LineageOS experience with enhanced privacy without los
  - [ ] Get hardware for building
  - [ ] Setup and make the first build
  - [ ] Include microG my default
+ - [ ] OTA updates
+ - [ ] signed builds
  - [ ] Include Bromite Webview by default
  - [ ] F-Droid privileged pre-installed
  - [ ] Upstream kernel
