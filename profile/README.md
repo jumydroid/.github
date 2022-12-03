@@ -26,10 +26,10 @@ The focus is on a vanilla LineageOS experience with enhanced privacy without los
 ### 3. More nice features
 
  - [ ] Custom logo
- - [ ] (under consideration) use fork of /e/ launcher
  - [ ] GrapheneOS camera app
  - [ ] Use custom DNS, CaptivePortal etc server by default instead of Google's
  - [ ] pre-install Aurora Store
+ - [ ] Brave as default browser
 
 ### 4. Port to more devices
 
