@@ -6,6 +6,8 @@ The focus is on a vanilla LineageOS experience with enhanced privacy without los
 
 ## Warning: this is a work a progress in a very early stage
 
+## Note: currently on vacation, expect the work to continue around 20th Jan
+
 ## Roadmap
 
 ### 1. Make work for m20lte
