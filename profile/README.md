@@ -4,9 +4,9 @@
 JuMyDroid is a custom Android ROM based on LineageOS with sensible defaults.
 The focus is on a vanilla LineageOS experience with enhanced privacy without loss of convenience.
 
-## Warning: this is a work a progress in a very early stage
+## WARNING: I have to put this project on hold as Android is a huge project and I don't have (and can't buy in the near future) hardware that I can build it on
 
-## Note: currently on vacation, expect the work to continue around 20th Jan
+**Warning:** this is a work a progress in a very early stage
 
 ## Roadmap
 
